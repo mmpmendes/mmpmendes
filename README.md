@@ -1,4 +1,4 @@
-# Intro
+# About me
 
 As a full stack developer with a passion for tinkering, I bring together technical expertise and creative problem-solving skills to deliver innovative solutions.
 
